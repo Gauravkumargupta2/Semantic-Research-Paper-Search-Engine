@@ -51,4 +51,6 @@ pip install -r requirements.txt
 - Research paper summarization
 
 ## Author
-Rituraj
+**Gaurav Kumar Gupta**
+B.Tech computer science engineering
+GGSIPU, EAST DELHI CAMPUS
